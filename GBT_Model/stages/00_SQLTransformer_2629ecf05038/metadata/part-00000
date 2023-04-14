@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.SQLTransformer","timestamp":1681432160842,"sparkVersion":"3.3.2","uid":"SQLTransformer_2629ecf05038","paramMap":{"statement":"SELECT *, REPLACE(review_text, '\n', ' ') AS cleaner_text FROM __THIS__"},"defaultParamMap":{}}

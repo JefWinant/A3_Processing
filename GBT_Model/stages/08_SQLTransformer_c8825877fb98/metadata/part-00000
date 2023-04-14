@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.SQLTransformer","timestamp":1681432163433,"sparkVersion":"3.3.2","uid":"SQLTransformer_c8825877fb98","paramMap":{"statement":"SELECT label_index AS label,features,review_id FROM __THIS__"},"defaultParamMap":{}}

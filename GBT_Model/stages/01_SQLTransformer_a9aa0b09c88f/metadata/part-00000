@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.SQLTransformer","timestamp":1681432160980,"sparkVersion":"3.3.2","uid":"SQLTransformer_a9aa0b09c88f","paramMap":{"statement":"SELECT *, REGEXP_REPLACE(review_text, '[^A-Za-z0-9 ]', ' ') AS cleaned_text FROM __THIS__"},"defaultParamMap":{}}

@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.SQLTransformer","timestamp":1681422567948,"sparkVersion":"3.3.2","uid":"SQLTransformer_7afbe2878764","paramMap":{"statement":"SELECT *, LENGTH(cleaned_text) AS text_length FROM __THIS__"},"defaultParamMap":{}}
